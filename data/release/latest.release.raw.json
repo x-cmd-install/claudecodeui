@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 117128268,
       "digest": "sha256:e84cfbfe288bd55dfe16cafae28d889860aa6bc2fb975ba82e8700c2fd95e640",
-      "download_count": 280,
+      "download_count": 281,
       "created_at": "2026-08-18T19:20:10Z",
       "updated_at": "2026-08-18T19:20:17Z",
       "browser_download_url": "https://github.com/siteboon/claudecodeui/releases/download/v1.37.2/cloudcli-desktop-1.37.2-mac-arm64.dmg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 101370162,
       "digest": "sha256:282f8438e706f918138991e12c1537a22fee16feef6f7e62af900488fee4cef3",
-      "download_count": 695,
+      "download_count": 702,
       "created_at": "2026-08-18T19:20:10Z",
       "updated_at": "2026-08-18T19:20:16Z",
       "browser_download_url": "https://github.com/siteboon/claudecodeui/releases/download/v1.37.2/cloudcli-desktop-1.37.2-win-x64.exe"

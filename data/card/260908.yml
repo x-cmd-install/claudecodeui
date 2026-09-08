@@ -5,7 +5,7 @@ about:
   head: 7015ffc
   archived: false
   latestVersion: "v1.37.2"
-  collectedAt: 2026-09-08T01:47:43Z
+  collectedAt: 2026-09-08T04:35:59Z
 timeline:
   created: 2025-06-25
   lastCommit: 2026-09-07
@@ -13,11 +13,11 @@ timeline:
 popularity:
   star: 13609
   watcher: 41
-  fork: 1915
+  fork: 1916
   release: 89
   contributor: 88
-  pullRequest: 716
-  issue: 519
+  pullRequest: 718
+  issue: 520
 language:
   TypeScript: 4326190
   JavaScript: 289110
@@ -31,60 +31,60 @@ recent:
     since: 2026-08-09
     release: 4
     mergedPR: 16
-    openPR: 45
+    openPR: 47
     closedIssue: 24
-    openIssue: 35
+    openIssue: 36
     commit: 17
   last60d:
     since: 2026-07-10
     release: 8
     mergedPR: 32
-    openPR: 67
+    openPR: 69
     closedIssue: 52
-    openIssue: 70
+    openIssue: 71
     commit: 39
   last90d:
     since: 2026-06-10
     release: 17
     mergedPR: 54
-    openPR: 78
+    openPR: 80
     closedIssue: 92
-    openIssue: 82
+    openIssue: 83
     commit: 83
   last180d:
     since: 2026-03-12
     release: 41
     mergedPR: 122
-    openPR: 79
+    openPR: 81
     closedIssue: 193
-    openIssue: 98
+    openIssue: 99
     commit: 239
   last360d:
     since: 2025-09-13
     release: 76
     mergedPR: 218
-    openPR: 80
+    openPR: 82
     closedIssue: 320
-    openIssue: 112
+    openIssue: 113
     commit: 535
   last720d:
     since: 2024-09-18
     release: 89
     mergedPR: 247
-    openPR: 80
+    openPR: 82
     closedIssue: 405
-    openIssue: 114
+    openIssue: 115
     commit: 794
 total:
   release: 89
   mergedPR: 247
-  openPR: 80
+  openPR: 82
   closedIssue: 405
-  openIssue: 114
+  openIssue: 115
   commit: 794
 ---
 path: /home/runner/.x-repo/github.com/siteboon/claudecodeui
-collectedAt: 2026-09-08T01:47:46Z
+collectedAt: 2026-09-08T04:36:01Z
 loc:
   TypeScript:
     code: 64201
