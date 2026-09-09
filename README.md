@@ -7,7 +7,7 @@ Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI
 - **Latest release**: `v1.37.3` (2026-09-08)
 - **Last commit**: 2026-09-08
 - **License**: AGPL-3.0
-- **Stars**: 13620 · **Forks**: 1919 · **Open issues**: 525 · **Contributors**: 88
+- **Stars**: 13625 · **Forks**: 1920 · **Open issues**: 527 · **Contributors**: 88
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/claudecodeui> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:53:51Z._
+_Last regenerated: 2026-09-09T18:45:02Z._
