@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.37.3"
   latestRelease: "v1.37.3"
   latestPrerelease: "cloudcli-local-server-v1.37.2"
-  collectedAt: 2026-09-10T21:11:30Z
+  collectedAt: 2026-09-10T22:37:48Z
 timeline:
   created: 2025-06-25
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-08-18
 popularity:
-  star: 13642
+  star: 13641
   watcher: 41
   fork: 1923
   release: 90
@@ -88,7 +88,7 @@ total:
   commit: 800
 ---
 path: /home/runner/.x-repo/github.com/siteboon/claudecodeui
-collectedAt: 2026-09-10T21:11:33Z
+collectedAt: 2026-09-10T22:37:50Z
 loc:
   TypeScript:
     code: 64688
