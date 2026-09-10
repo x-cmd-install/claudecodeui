@@ -12,6 +12,18 @@ Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI
 x install claudecodeui
 ```
 
+## Code insight
+
+Total: **150,730** lines of code across **813** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 64,688 | 8,319 | 9,629 | 435 |
+| Json | 41,906 | 0 | 0 | 73 |
+| Tsx | 35,352 | 1,846 | 3,738 | 274 |
+| JavaScript | 6,555 | 536 | 743 | 29 |
+| Css | 1,461 | 93 | 263 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/siteboon/claudecodeui>
@@ -25,31 +37,22 @@ x install claudecodeui
 
 ## Popularity
 
-- **Stars**: 13,641 · **Forks**: 1,922 · **Open issues**: 530 · **Contributors**: 88
+- **Stars**: 13,642 · **Forks**: 1,923 · **Open issues**: 532 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 249 · **Open PRs**: 90 · **Closed issues**: 406 · **Open issues**: 124 · **Commits**: 800
+- **Releases**: 90 · **Merged PRs**: 249 · **Open PRs**: 91 · **Closed issues**: 406 · **Open issues**: 126 · **Commits**: 800
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 18 | 53 | 22 | 43 | 23 |
-| 90d | 2026-06-12 | 18 | 55 | 87 | 92 | 90 | 89 |
-| 360d | 2025-09-15 | 77 | 219 | 90 | 321 | 122 | 541 |
-
-## Code size
-
-Total: **150,730** lines of code across **813** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 64,688 | 8,319 | 9,629 | 435 |
-| Json | 41,906 | 0 | 0 | 73 |
-| Tsx | 35,352 | 1,846 | 3,738 | 274 |
-| JavaScript | 6,555 | 536 | 743 | 29 |
-| Css | 1,461 | 93 | 263 | 2 |
+| 30d | 2026-08-11 | 5 | 18 | 54 | 22 | 45 | 23 |
+| last60d | 2026-07-12 | 9 | 32 | 73 | 46 | 77 | 45 |
+| 90d | 2026-06-12 | 18 | 55 | 88 | 92 | 92 | 89 |
+| last180d | 2026-03-14 | 42 | 123 | 90 | 189 | 110 | 245 |
+| 360d | 2025-09-15 | 77 | 219 | 91 | 321 | 124 | 541 |
+| last720d | 2024-09-20 | 90 | 249 | 91 | 406 | 126 | 800 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for claudecodeui lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:16:10Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:11:40Z._
