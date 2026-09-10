@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: claudecodeui
+  binname: claudecodeui
+  visiblename: claudecodeui
+  version: 1.32.0
+  origversion: 1.32.0-1
+  status: unique
+  summary: Web-based UI for Claude Code, Cursor CLI, Codex, and Gemini CLI (CloudCLI)
+  maintainers:
+    - vvs@aur
+  licenses:
+    - AGPL-3.0-or-later
