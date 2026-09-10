@@ -12,7 +12,7 @@ Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI
 x install claudecodeui
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **150,730** 行代码（覆盖前 5 种语言、共 **813** 个文件）。
 
@@ -37,7 +37,7 @@ x install claudecodeui
 
 ## 流行度
 
-- **Star**: 13,642 · **Fork**: 1,923 · **开放 issue**: 532 · **贡献者**: 88
+- **Star**: 13,641 · **Fork**: 1,923 · **开放 issue**: 532 · **贡献者**: 88
 
 ## 累计统计
 
@@ -63,4 +63,4 @@ claudecodeui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:11:40Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:37:55Z._

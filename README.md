@@ -37,7 +37,7 @@ Total: **150,730** lines of code across **813** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13,642 · **Forks**: 1,923 · **Open issues**: 532 · **Contributors**: 88
+- **Stars**: 13,641 · **Forks**: 1,923 · **Open issues**: 532 · **Contributors**: 88
 
 ## Totals (cumulative)
 
@@ -63,4 +63,4 @@ Install metadata for claudecodeui lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:11:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:37:55Z._
