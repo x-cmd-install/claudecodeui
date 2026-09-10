@@ -22,23 +22,22 @@ x install claudecodeui
 
 - **Latest**: `v1.37.3` (2026-09-08)
 - **Last commit**: 2026-09-08
-- **Published**: 2026-09-08T10:29:58Z
 
 ## Popularity
 
-- **Stars**: 13,627 · **Forks**: 1,920 · **Open issues**: 527 · **Contributors**: 88
+- **Stars**: 13,641 · **Forks**: 1,922 · **Open issues**: 530 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 249 · **Open PRs**: 86 · **Closed issues**: 406 · **Open issues**: 121 · **Commits**: 800
+- **Releases**: 90 · **Merged PRs**: 249 · **Open PRs**: 90 · **Closed issues**: 406 · **Open issues**: 124 · **Commits**: 800
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 18 | 49 | 22 | 40 | 23 |
-| 90d | 2026-06-12 | 18 | 55 | 83 | 92 | 87 | 89 |
-| 360d | 2025-09-15 | 77 | 219 | 86 | 321 | 119 | 541 |
+| 30d | 2026-08-11 | 5 | 18 | 53 | 22 | 43 | 23 |
+| 90d | 2026-06-12 | 18 | 55 | 87 | 92 | 90 | 89 |
+| 360d | 2025-09-15 | 77 | 219 | 90 | 321 | 122 | 541 |
 
 ## Code size
 
@@ -57,8 +56,8 @@ Total: **150,730** lines of code across **813** files in the top 5 languages.
 Install metadata for claudecodeui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `claudecodeui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/claudecodeui.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/claudecodeui.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:38:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:16:10Z._

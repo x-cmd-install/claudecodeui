@@ -4,7 +4,7 @@
 
 Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.
 
-![claudecodeui](https://repo.x-cmd.io/claudecodeui.svg)
+![claudecodeui](https://repo.x-cmd.io/claudecodeui.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,22 @@ x install claudecodeui
 
 - **最新版本**: `v1.37.3` (2026-09-08)
 - **最近提交**: 2026-09-08
-- **发布时间**: 2026-09-08T10:29:58Z
 
 ## 流行度
 
-- **Star**: 13,627 · **Fork**: 1,920 · **开放 issue**: 527 · **贡献者**: 88
+- **Star**: 13,641 · **Fork**: 1,922 · **开放 issue**: 530 · **贡献者**: 88
 
 ## 累计统计
 
-- **发布数**: 90 · **已合并 PR**: 249 · **开放 PR**: 86 · **已关闭 issue**: 406 · **开放 issue**: 121 · **提交数**: 800
+- **发布数**: 90 · **已合并 PR**: 249 · **开放 PR**: 90 · **已关闭 issue**: 406 · **开放 issue**: 124 · **提交数**: 800
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 18 | 49 | 22 | 40 | 23 |
-| 90d | 2026-06-12 | 18 | 55 | 83 | 92 | 87 | 89 |
-| 360d | 2025-09-15 | 77 | 219 | 86 | 321 | 119 | 541 |
+| 30d | 2026-08-11 | 5 | 18 | 53 | 22 | 43 | 23 |
+| 90d | 2026-06-12 | 18 | 55 | 87 | 92 | 90 | 89 |
+| 360d | 2025-09-15 | 77 | 219 | 90 | 321 | 122 | 541 |
 
 ## 代码规模
 
@@ -61,4 +60,4 @@ claudecodeui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:38:43Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:16:10Z._
