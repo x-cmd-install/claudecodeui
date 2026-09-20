@@ -4,7 +4,7 @@
 
 Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.
 
-![claudecodeui](https://repo.x-cmd.io/claudecodeui.svg?lang=zh)
+[![x-cmd/install — claudecodeui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claudecodeui.svg?lang=zh)](https://x-cmd.com/install/claudecodeui)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install claudecodeui
 
 ## 代码洞察
 
-合计: **154,584** 行代码（覆盖前 5 种语言、共 **833** 个文件）。
+合计: **154,609** 行代码（覆盖前 5 种语言、共 **833** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 65,935 | 8,538 | 9,823 | 442 |
+| TypeScript | 65,960 | 8,552 | 9,826 | 442 |
 | Json | 43,932 | 0 | 0 | 80 |
 | Tsx | 35,926 | 1,948 | 3,853 | 280 |
 | JavaScript | 6,562 | 554 | 744 | 29 |
@@ -33,26 +33,26 @@ x install claudecodeui
 ## 发布
 
 - **最新版本**: `v1.37.3` (2026-09-08)
-- **最近提交**: 2026-09-17
+- **最近提交**: 2026-09-18
 
 ## 流行度
 
-- **Star**: 13,722 · **Fork**: 1,948 · **开放 issue**: 542 · **贡献者**: 100
+- **Star**: 13,741 · **Fork**: 1,954 · **开放 issue**: 547 · **贡献者**: 101
 
 ## 累计统计
 
-- **发布数**: 90 · **已合并 PR**: 264 · **开放 PR**: 86 · **已关闭 issue**: 414 · **开放 issue**: 128 · **提交数**: 815
+- **发布数**: 90 · **已合并 PR**: 265 · **开放 PR**: 88 · **已关闭 issue**: 415 · **开放 issue**: 132 · **提交数**: 816
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 27 | 42 | 26 | 37 | 36 |
-| last60d | 2026-07-20 | 7 | 41 | 64 | 47 | 73 | 56 |
-| 90d | 2026-06-20 | 17 | 62 | 83 | 88 | 88 | 89 |
-| last180d | 2026-03-22 | 40 | 132 | 85 | 188 | 108 | 250 |
-| 360d | 2025-09-23 | 76 | 234 | 86 | 327 | 126 | 531 |
-| last720d | 2024-09-28 | 90 | 264 | 86 | 414 | 128 | 815 |
+| 30d | 2026-08-21 | 1 | 28 | 42 | 24 | 35 | 37 |
+| last60d | 2026-07-22 | 7 | 42 | 66 | 47 | 73 | 57 |
+| 90d | 2026-06-22 | 17 | 62 | 85 | 86 | 92 | 90 |
+| last180d | 2026-03-24 | 39 | 133 | 87 | 186 | 111 | 251 |
+| 360d | 2025-09-25 | 73 | 235 | 88 | 328 | 130 | 532 |
+| last720d | 2024-09-30 | 90 | 265 | 88 | 415 | 132 | 816 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ claudecodeui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:44:05Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:57:09Z._
