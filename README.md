@@ -37,22 +37,22 @@ Total: **170,585** lines of code across **907** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13,863 · **Forks**: 1,991 · **Open issues**: 566 · **Contributors**: 103
+- **Stars**: 13,881 · **Forks**: 1,997 · **Open issues**: 567 · **Contributors**: 103
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 285 · **Open PRs**: 143 · **Closed issues**: 447 · **Open issues**: 119 · **Commits**: 836
+- **Releases**: 90 · **Merged PRs**: 285 · **Open PRs**: 144 · **Closed issues**: 448 · **Open issues**: 119 · **Commits**: 836
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 41 | 88 | 21 | 39 | 55 |
-| last60d | 2026-08-01 | 5 | 58 | 116 | 58 | 65 | 66 |
-| 90d | 2026-07-02 | 12 | 73 | 137 | 95 | 85 | 88 |
-| last180d | 2026-04-03 | 38 | 152 | 142 | 193 | 103 | 262 |
-| 360d | 2025-10-05 | 73 | 253 | 143 | 355 | 117 | 548 |
-| last720d | 2024-10-10 | 90 | 285 | 143 | 447 | 119 | 836 |
+| 30d | 2026-09-01 | 1 | 39 | 87 | 23 | 39 | 55 |
+| last60d | 2026-08-02 | 5 | 57 | 117 | 57 | 65 | 66 |
+| 90d | 2026-07-03 | 12 | 73 | 137 | 97 | 85 | 88 |
+| last180d | 2026-04-04 | 37 | 151 | 143 | 194 | 103 | 262 |
+| 360d | 2025-10-06 | 73 | 253 | 144 | 357 | 117 | 548 |
+| last720d | 2024-10-11 | 90 | 285 | 144 | 448 | 119 | 836 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for claudecodeui lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:29:29Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:50:13Z._
