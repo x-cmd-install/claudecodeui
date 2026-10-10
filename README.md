@@ -32,27 +32,27 @@ Total: **182,037** lines of code across **954** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.37.3` (2026-09-08)
-- **Last commit**: 2026-10-08
+- **Latest**: `v1.37.4` (2026-10-09)
+- **Last commit**: 2026-10-09
 
 ## Popularity
 
-- **Stars**: 13,986 · **Forks**: 2,017 · **Open issues**: 595 · **Contributors**: 106
+- **Stars**: 13,994 · **Forks**: 2,022 · **Open issues**: 603 · **Contributors**: 106
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 300 · **Open PRs**: 160 · **Closed issues**: 466 · **Open issues**: 129 · **Commits**: 851
+- **Releases**: 91 · **Merged PRs**: 300 · **Open PRs**: 169 · **Closed issues**: 466 · **Open issues**: 137 · **Commits**: 852
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 42 | 89 | 23 | 42 | 51 |
-| last60d | 2026-08-10 | 5 | 69 | 127 | 62 | 71 | 77 |
-| 90d | 2026-07-11 | 9 | 83 | 145 | 95 | 97 | 98 |
-| last180d | 2026-04-12 | 36 | 162 | 159 | 201 | 113 | 270 |
-| 360d | 2025-10-14 | 72 | 266 | 160 | 372 | 128 | 563 |
-| last720d | 2024-10-19 | 90 | 300 | 160 | 466 | 129 | 851 |
+| 30d | 2026-09-10 | 1 | 40 | 96 | 19 | 49 | 52 |
+| last60d | 2026-08-11 | 6 | 69 | 134 | 58 | 78 | 78 |
+| 90d | 2026-07-12 | 10 | 83 | 152 | 91 | 101 | 99 |
+| last180d | 2026-04-13 | 37 | 162 | 168 | 201 | 121 | 271 |
+| 360d | 2025-10-15 | 73 | 266 | 169 | 372 | 136 | 564 |
+| last720d | 2024-10-20 | 91 | 300 | 169 | 466 | 137 | 852 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for claudecodeui lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:06:40Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:49:38Z._
