@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.37.6"
   latestRelease: "v1.37.6"
   latestPrerelease: "cloudcli-local-server-v1.37.2"
-  collectedAt: 2026-10-29T05:41:00Z
+  collectedAt: 2026-10-30T05:52:30Z
 timeline:
   created: 2025-06-25
   lastCommit: 2026-10-27
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-10-27
   lastPrerelease: 2026-08-18
 popularity:
-  star: 14327
+  star: 14339
   watcher: 39
-  fork: 2089
+  fork: 2088
   release: 93
   contributor: 114
-  pullRequest: 991
+  pullRequest: 992
   issue: 653
 language:
   TypeScript: 5917769
@@ -32,63 +32,63 @@ language:
 totalBytes: 6226877
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 3
     mergedPR: 33
     openPR: 91
-    closedIssue: 23
-    openIssue: 62
+    closedIssue: 22
+    openIssue: 61
     commit: 45
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 4
     mergedPR: 83
     openPR: 167
-    closedIssue: 55
+    closedIssue: 54
     openIssue: 91
     commit: 101
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 8
-    mergedPR: 102
-    openPR: 193
-    closedIssue: 95
-    openIssue: 116
+    mergedPR: 100
+    openPR: 194
+    closedIssue: 93
+    openIssue: 115
     commit: 114
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 27
     mergedPR: 173
-    openPR: 217
-    closedIssue: 198
+    openPR: 218
+    closedIssue: 197
     openIssue: 149
     commit: 244
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 68
-    mergedPR: 285
-    openPR: 218
+    mergedPR: 283
+    openPR: 219
     closedIssue: 389
     openIssue: 165
     commit: 547
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 93
     mergedPR: 327
-    openPR: 218
+    openPR: 219
     closedIssue: 487
     openIssue: 166
     commit: 881
 total:
   release: 93
   mergedPR: 327
-  openPR: 218
+  openPR: 219
   closedIssue: 487
   openIssue: 166
   commit: 881
 ---
 path: /home/runner/.x-repo/github.com/siteboon/claudecodeui
-collectedAt: 2026-10-29T05:41:03Z
+collectedAt: 2026-10-30T05:52:33Z
 loc:
   TypeScript:
     code: 83995
