@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 98915108,
       "digest": "sha256:cda7a5f361fcf7e0191a6f64d84f59b1d582df64b419f27aee419f6d71fa6625",
-      "download_count": 39,
+      "download_count": 43,
       "created_at": "2026-11-16T10:14:09Z",
       "updated_at": "2026-11-16T10:14:14Z",
       "browser_download_url": "https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/cloudcli-desktop-1.37.9-linux-amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 119304369,
       "digest": "sha256:6eeaa2638ea12730df9625f959bc918faf83e5d3c0a3508d9949b69614d64496",
-      "download_count": 84,
+      "download_count": 97,
       "created_at": "2026-11-16T10:14:09Z",
       "updated_at": "2026-11-16T10:14:14Z",
       "browser_download_url": "https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/cloudcli-desktop-1.37.9-mac-arm64.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 109836460,
       "digest": "sha256:66fd7b7ebf3ccf1f8a0d83db73771cb46160dcceee047b4613e328701671c990",
-      "download_count": 486,
+      "download_count": 591,
       "created_at": "2026-11-16T10:14:09Z",
       "updated_at": "2026-11-16T10:14:12Z",
       "browser_download_url": "https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/cloudcli-desktop-1.37.9-win-x64.exe"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 122,
       "digest": "sha256:59a146a519445652853108bc99be8ffc99d0c685b216a0994b0f85f94090fabd",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-16T10:14:09Z",
       "updated_at": "2026-11-16T10:14:09Z",
       "browser_download_url": "https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/SHASUMS256-linux.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 120,
       "digest": "sha256:097c89891b8263695f49a2484fbc6f617abe5f55c65f7a00b7e04df87cb11796",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-11-16T10:14:09Z",
       "updated_at": "2026-11-16T10:14:09Z",
       "browser_download_url": "https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/SHASUMS256-macos.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 118,
       "digest": "sha256:0499855406f2361ff025bcb2e0fb229a3d92eca55fb137e337738244a788e534",
-      "download_count": 67,
+      "download_count": 76,
       "created_at": "2026-11-16T10:14:09Z",
       "updated_at": "2026-11-16T10:14:09Z",
       "browser_download_url": "https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/SHASUMS256-windows.txt"
