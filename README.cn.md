@@ -14,15 +14,15 @@ x install claudecodeui
 
 ## 代码洞察
 
-合计: **215,093** 行代码（覆盖前 5 种语言、共 **1077** 个文件）。
+合计: **216,583** 行代码（覆盖前 5 种语言、共 **1091** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 100,240 | 15,433 | 14,665 | 565 |
-| Json | 58,350 | 0 | 0 | 120 |
-| Tsx | 48,959 | 3,576 | 5,935 | 362 |
+| TypeScript | 100,974 | 15,471 | 14,738 | 574 |
+| Json | 58,362 | 0 | 0 | 120 |
+| Tsx | 49,697 | 3,596 | 5,990 | 367 |
 | JavaScript | 5,309 | 169 | 532 | 28 |
-| Css | 1,461 | 93 | 263 | 2 |
+| Css | 1,465 | 94 | 264 | 2 |
 
 ## 源代码
 
@@ -32,39 +32,27 @@ x install claudecodeui
 
 ## 发布
 
-- **最新版本**: `v1.37.9` (2026-11-16)
-- **最近提交**: 2026-11-19
-- **Release 含资产**: 6 个
+- **最新版本**: `v1.37.10` (2026-11-25)
+- **最近提交**: 2026-11-25
 
 ## 流行度
 
-- **Star**: 14,744 · **Fork**: 2,159 · **开放 issue**: 681 · **贡献者**: 124
+- **Star**: 14,755 · **Fork**: 2,164 · **开放 issue**: 687 · **贡献者**: 127
 
 ## 累计统计
 
-- **发布数**: 98 · **已合并 PR**: 369 · **开放 PR**: 242 · **已关闭 issue**: 517 · **开放 issue**: 164 · **提交数**: 926
+- **发布数**: 99 · **已合并 PR**: 376 · **开放 PR**: 238 · **已关闭 issue**: 520 · **开放 issue**: 167 · **提交数**: 933
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 6 | 35 | 56 | 25 | 32 | 45 |
-| last60d | 2026-09-25 | 8 | 71 | 129 | 53 | 66 | 89 |
-| 90d | 2026-08-26 | 9 | 123 | 199 | 87 | 90 | 146 |
-| last180d | 2026-05-28 | 31 | 198 | 240 | 200 | 144 | 271 |
-| 360d | 2025-11-29 | 72 | 322 | 242 | 409 | 162 | 564 |
-| last720d | 2024-12-04 | 98 | 367 | 242 | 517 | 164 | 926 |
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [cloudcli-desktop-1.37.9-linux-amd64.deb](https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/cloudcli-desktop-1.37.9-linux-amd64.deb) | 94.3 MiB | `native/linux/x64` |
-| [cloudcli-desktop-1.37.9-mac-arm64.dmg](https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/cloudcli-desktop-1.37.9-mac-arm64.dmg) | 113.8 MiB | `other` |
-| [cloudcli-desktop-1.37.9-win-x64.exe](https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/cloudcli-desktop-1.37.9-win-x64.exe) | 104.7 MiB | `other` |
-| [SHASUMS256-linux.txt](https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/SHASUMS256-linux.txt) | 122 B | `other` |
-| [SHASUMS256-macos.txt](https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/SHASUMS256-macos.txt) | 120 B | `native/darwin/x64` |
-| [SHASUMS256-windows.txt](https://github.com/siteboon/claudecodeui/releases/download/v1.37.9/SHASUMS256-windows.txt) | 118 B | `native/win/x64` |
+| 30d | 2026-10-26 | 7 | 42 | 50 | 27 | 34 | 52 |
+| last60d | 2026-09-26 | 9 | 78 | 127 | 55 | 70 | 96 |
+| 90d | 2026-08-27 | 10 | 129 | 196 | 87 | 94 | 153 |
+| last180d | 2026-05-29 | 32 | 202 | 236 | 203 | 146 | 278 |
+| 360d | 2025-11-30 | 73 | 329 | 238 | 412 | 165 | 571 |
+| last720d | 2024-12-05 | 99 | 374 | 238 | 520 | 167 | 933 |
 
 ## 改进这些数据
 
@@ -75,4 +63,4 @@ claudecodeui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:02:07Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:47:15Z._
