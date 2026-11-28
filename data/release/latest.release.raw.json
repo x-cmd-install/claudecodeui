@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/siteboon/claudecodeui/releases/457823496",
-  "assets_url": "https://api.github.com/repos/siteboon/claudecodeui/releases/457823496/assets",
-  "upload_url": "https://uploads.github.com/repos/siteboon/claudecodeui/releases/457823496/assets{?name,label}",
-  "html_url": "https://github.com/siteboon/claudecodeui/releases/tag/v1.37.10",
-  "id": 457823496,
+  "url": "https://api.github.com/repos/siteboon/claudecodeui/releases/460550389",
+  "assets_url": "https://api.github.com/repos/siteboon/claudecodeui/releases/460550389/assets",
+  "upload_url": "https://uploads.github.com/repos/siteboon/claudecodeui/releases/460550389/assets{?name,label}",
+  "html_url": "https://github.com/siteboon/claudecodeui/releases/tag/v1.37.11",
+  "id": 460550389,
   "author": {
     "login": "viper151",
     "id": 7479045,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOPBqO7c4bSdUI",
-  "tag_name": "v1.37.10",
+  "node_id": "RE_kwDOPBqO7c4bc3D1",
+  "tag_name": "v1.37.11",
   "target_commitish": "main",
-  "name": "CloudCLI UI v1.37.10",
+  "name": "CloudCLI UI v1.37.11",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-25T08:20:44Z",
-  "updated_at": "2026-11-25T08:20:46Z",
-  "published_at": "2026-11-25T08:20:46Z",
+  "created_at": "2026-11-27T12:03:30Z",
+  "updated_at": "2026-11-27T12:03:32Z",
+  "published_at": "2026-11-27T12:03:32Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/siteboon/claudecodeui/tarball/v1.37.10",
-  "zipball_url": "https://api.github.com/repos/siteboon/claudecodeui/zipball/v1.37.10",
-  "body": "## [1.37.10](https://github.com/siteboon/claudecodeui/compare/v1.37.9...v1.37.10) (2026-11-25)\n\n### New Features\n\n* **chat:** scale transcript and composer width with the pane ([#1830](https://github.com/siteboon/claudecodeui/issues/1830)) ([b1d5fb2](https://github.com/siteboon/claudecodeui/commit/b1d5fb298dcc1426a048b7d0e7ab1593ae57fe0a))\n* **codex:** update the Codex CLI from Settings without rebuilding CloudCLI ([#1802](https://github.com/siteboon/claudecodeui/issues/1802)) ([4dcbb71](https://github.com/siteboon/claudecodeui/commit/4dcbb7145fc4afd5119ca7cfff9d9ff1ec59fba7))\n* **sidebar:** pin sessions while preserving fork trees ([#1812](https://github.com/siteboon/claudecodeui/issues/1812)) ([53dea39](https://github.com/siteboon/claudecodeui/commit/53dea39fab9e98d23252276c09b32e328f4f558d))\n\n### Bug Fixes\n\n* **assets:** report and correlate attachment upload failures ([#1814](https://github.com/siteboon/claudecodeui/issues/1814)) ([16defeb](https://github.com/siteboon/claudecodeui/commit/16defeb6d83841dbef5c4f19972eabafc8605a11))\n* **auth:** compare API_KEY and Browser MCP token in constant time ([#1804](https://github.com/siteboon/claudecodeui/issues/1804)) ([b695914](https://github.com/siteboon/claudecodeui/commit/b6959148ec006f258d737e72bb630ff2e5e84672))\n* **chat:** improve markdown table column sizing and line breaks ([#1825](https://github.com/siteboon/claudecodeui/issues/1825)) ([d0604e2](https://github.com/siteboon/claudecodeui/commit/d0604e2cc350cc345dd6a6b8d14223ff119b5555))\n* **chat:** name attachments refused for size or count instead of dropping them ([#1801](https://github.com/siteboon/claudecodeui/issues/1801)) ([d17b8a9](https://github.com/siteboon/claudecodeui/commit/d17b8a97d2ba66daa6a97e21b464f3cf5aab2506))\n* **editor:** stop the docked editor from snapping width when the resize handle is pressed ([#1799](https://github.com/siteboon/claudecodeui/issues/1799)) ([3aa4645](https://github.com/siteboon/claudecodeui/commit/3aa464521a3881d454dc2a34354d6904fcc51116))\n* keep optional web fonts from blocking startup ([#1815](https://github.com/siteboon/claudecodeui/issues/1815)) ([09ff15b](https://github.com/siteboon/claudecodeui/commit/09ff15bd6680edb6f230cee9d8e27041d5a577dd))\n* **models:** keep a provider-reported session model that equals the built-in default ([#1813](https://github.com/siteboon/claudecodeui/issues/1813)) ([43e57ec](https://github.com/siteboon/claudecodeui/commit/43e57ecf2f712ff533e5b3f51536fb675d8861f1))\n* **server:** parse request bodies only after authentication ([#1805](https://github.com/siteboon/claudecodeui/issues/1805)) ([d3d8741](https://github.com/siteboon/claudecodeui/commit/d3d87414d64c6367ed0c85f5a6015e9a12793475))"
+  "tarball_url": "https://api.github.com/repos/siteboon/claudecodeui/tarball/v1.37.11",
+  "zipball_url": "https://api.github.com/repos/siteboon/claudecodeui/zipball/v1.37.11",
+  "body": "## [1.37.11](https://github.com/siteboon/claudecodeui/compare/v1.37.10...v1.37.11) (2026-11-27)\n\n### New Features\n\n* **agent-api:** permission mode per run, capabilities and session status ([#1863](https://github.com/siteboon/claudecodeui/issues/1863)) ([06eb312](https://github.com/siteboon/claudecodeui/commit/06eb312a371b7da839aa08b4182e87c4ba414ffe))\n* **chat:** remember the permission mode per session and start new chats from the project's last selection ([#1850](https://github.com/siteboon/claudecodeui/issues/1850)) ([1e9558d](https://github.com/siteboon/claudecodeui/commit/1e9558dc0dd29f1f9f4d10fc9fbf92a420507210)), closes [#1740](https://github.com/siteboon/claudecodeui/issues/1740)\n* **plugins:** let plugins render the chat rows of their tools ([#1862](https://github.com/siteboon/claudecodeui/issues/1862)) ([8026251](https://github.com/siteboon/claudecodeui/commit/802625193deb419055eba6a7bd54deb0cfd677c6))\n* **sidebar:** pin sessions from conversation search results ([#1865](https://github.com/siteboon/claudecodeui/issues/1865)) ([12af41e](https://github.com/siteboon/claudecodeui/commit/12af41eb90094346f20f0a21dc7f1dcd6cadecdd))\n\n### Bug Fixes\n\n* **chat:** restore full-width composer on narrow panes and align activity tabs ([#1876](https://github.com/siteboon/claudecodeui/issues/1876)) ([a2b8d44](https://github.com/siteboon/claudecodeui/commit/a2b8d4489cc2be4e27e3ceb176f9649a9db2c8b5)), closes [#1830](https://github.com/siteboon/claudecodeui/issues/1830) [pre-#1830](https://github.com/siteboon/pre-/issues/1830)"
 }

@@ -1,0 +1,155 @@
+about:
+  description: "Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely."
+  license: AGPL-3.0
+  homepage: https://cloudcli.ai
+  head: de4c768
+  archived: false
+  latestVersion: "v1.37.11"
+  latestRelease: "v1.37.11"
+  latestPrerelease: "cloudcli-local-server-v1.37.9"
+  collectedAt: 2026-11-28T07:44:46Z
+timeline:
+  created: 2025-06-25
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 2026-11-16
+popularity:
+  star: 14814
+  watcher: 40
+  fork: 2169
+  release: 100
+  contributor: 129
+  pullRequest: 1117
+  issue: 695
+language:
+  TypeScript: 7279005
+  JavaScript: 206440
+  CSS: 40408
+  HTML: 40399
+  Dockerfile: 1338
+  Shell: 1039
+totalBytes: 7568629
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 7
+    mergedPR: 43
+    openPR: 62
+    closedIssue: 27
+    openIssue: 32
+    commit: 59
+  last60d:
+    since: 2026-09-29
+    release: 10
+    mergedPR: 83
+    openPR: 137
+    closedIssue: 56
+    openIssue: 71
+    commit: 103
+  last90d:
+    since: 2026-08-30
+    release: 11
+    mergedPR: 133
+    openPR: 208
+    closedIssue: 89
+    openIssue: 99
+    commit: 160
+  last180d:
+    since: 2026-06-01
+    release: 33
+    mergedPR: 207
+    openPR: 252
+    closedIssue: 204
+    openIssue: 151
+    commit: 285
+  last360d:
+    since: 2025-12-03
+    release: 74
+    mergedPR: 334
+    openPR: 254
+    closedIssue: 415
+    openIssue: 170
+    commit: 578
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 380
+    openPR: 254
+    closedIssue: 523
+    openIssue: 172
+    commit: 940
+total:
+  release: 100
+  mergedPR: 382
+  openPR: 254
+  closedIssue: 523
+  openIssue: 172
+  commit: 940
+---
+path: /home/runner/.x-repo/github.com/siteboon/claudecodeui
+collectedAt: 2026-11-28T07:44:50Z
+loc:
+  TypeScript:
+    code: 102385
+    comments: 15726
+    blanks: 14920
+    files: 580
+  Json:
+    code: 59151
+    comments: 0
+    blanks: 0
+    files: 120
+  Tsx:
+    code: 50113
+    comments: 3626
+    blanks: 6027
+    files: 370
+  JavaScript:
+    code: 5309
+    comments: 169
+    blanks: 532
+    files: 28
+  Css:
+    code: 1470
+    comments: 100
+    blanks: 265
+    files: 2
+  Html:
+    code: 514
+    comments: 12
+    blanks: 50
+    files: 4
+  Svg:
+    code: 123
+    comments: 21
+    blanks: 10
+    files: 16
+  Bitbake:
+    code: 92
+    comments: 95
+    blanks: 31
+    files: 1
+  Dockerfile:
+    code: 34
+    comments: 0
+    blanks: 6
+    files: 2
+  Sh:
+    code: 19
+    comments: 9
+    blanks: 5
+    files: 3
+  Markdown:
+    code: 0
+    comments: 6195
+    blanks: 1918
+    files: 25
+total:
+  code: 219799
+  comments: 25965
+  blanks: 23837
+  files: 1151
+---
+
+---

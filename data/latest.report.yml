@@ -2,121 +2,121 @@ about:
   description: "Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely."
   license: AGPL-3.0
   homepage: https://cloudcli.ai
-  head: a2b4852
+  head: de4c768
   archived: false
-  latestVersion: "v1.37.10"
-  latestRelease: "v1.37.10"
+  latestVersion: "v1.37.11"
+  latestRelease: "v1.37.11"
   latestPrerelease: "cloudcli-local-server-v1.37.9"
-  collectedAt: 2026-11-27T08:24:50Z
+  collectedAt: 2026-11-28T07:44:46Z
 timeline:
   created: 2025-06-25
-  lastCommit: 2026-11-25
-  lastVersion: 2026-11-25
-  lastRelease: 2026-11-25
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
   lastPrerelease: 2026-11-16
 popularity:
-  star: 14799
+  star: 14814
   watcher: 40
-  fork: 2171
-  release: 99
-  contributor: 127
-  pullRequest: 1114
-  issue: 693
+  fork: 2169
+  release: 100
+  contributor: 129
+  pullRequest: 1117
+  issue: 695
 language:
-  TypeScript: 7176606
+  TypeScript: 7279005
   JavaScript: 206440
-  CSS: 39914
-  HTML: 39407
+  CSS: 40408
+  HTML: 40399
   Dockerfile: 1338
   Shell: 1039
-totalBytes: 7464744
+totalBytes: 7568629
 recent:
   last30d:
-    since: 2026-10-28
-    release: 6
-    mergedPR: 38
-    openPR: 71
-    closedIssue: 25
-    openIssue: 33
-    commit: 0
+    since: 2026-10-29
+    release: 7
+    mergedPR: 43
+    openPR: 62
+    closedIssue: 27
+    openIssue: 32
+    commit: 59
   last60d:
-    since: 2026-09-28
-    release: 9
-    mergedPR: 78
-    openPR: 148
-    closedIssue: 54
-    openIssue: 72
-    commit: 0
-  last90d:
-    since: 2026-08-29
+    since: 2026-09-29
     release: 10
-    mergedPR: 128
-    openPR: 220
-    closedIssue: 86
-    openIssue: 100
-    commit: 0
+    mergedPR: 83
+    openPR: 137
+    closedIssue: 56
+    openIssue: 71
+    commit: 103
+  last90d:
+    since: 2026-08-30
+    release: 11
+    mergedPR: 133
+    openPR: 208
+    closedIssue: 89
+    openIssue: 99
+    commit: 160
   last180d:
-    since: 2026-05-31
-    release: 32
-    mergedPR: 202
-    openPR: 261
-    closedIssue: 202
-    openIssue: 152
-    commit: 0
+    since: 2026-06-01
+    release: 33
+    mergedPR: 207
+    openPR: 252
+    closedIssue: 204
+    openIssue: 151
+    commit: 285
   last360d:
-    since: 2025-12-02
-    release: 73
-    mergedPR: 328
-    openPR: 263
-    closedIssue: 412
-    openIssue: 171
-    commit: 0
+    since: 2025-12-03
+    release: 74
+    mergedPR: 334
+    openPR: 254
+    closedIssue: 415
+    openIssue: 170
+    commit: 578
   last720d:
-    since: 2024-12-07
-    release: 99
-    mergedPR: 374
-    openPR: 263
-    closedIssue: 520
-    openIssue: 173
-    commit: 933
+    since: 2024-12-08
+    release: 100
+    mergedPR: 380
+    openPR: 254
+    closedIssue: 523
+    openIssue: 172
+    commit: 940
 total:
-  release: 99
-  mergedPR: 376
-  openPR: 263
-  closedIssue: 520
-  openIssue: 173
-  commit: 933
+  release: 100
+  mergedPR: 382
+  openPR: 254
+  closedIssue: 523
+  openIssue: 172
+  commit: 940
 ---
 path: /home/runner/.x-repo/github.com/siteboon/claudecodeui
-collectedAt: 2026-11-27T08:24:53Z
+collectedAt: 2026-11-28T07:44:50Z
 loc:
   TypeScript:
-    code: 100974
-    comments: 15471
-    blanks: 14738
-    files: 574
+    code: 102385
+    comments: 15726
+    blanks: 14920
+    files: 580
   Json:
-    code: 58362
+    code: 59151
     comments: 0
     blanks: 0
     files: 120
   Tsx:
-    code: 49697
-    comments: 3596
-    blanks: 5990
-    files: 367
+    code: 50113
+    comments: 3626
+    blanks: 6027
+    files: 370
   JavaScript:
     code: 5309
     comments: 169
     blanks: 532
     files: 28
   Css:
-    code: 1465
-    comments: 94
-    blanks: 264
+    code: 1470
+    comments: 100
+    blanks: 265
     files: 2
   Html:
-    code: 508
+    code: 514
     comments: 12
     blanks: 50
     files: 4
@@ -142,15 +142,15 @@ loc:
     files: 3
   Markdown:
     code: 0
-    comments: 6187
-    blanks: 1913
+    comments: 6195
+    blanks: 1918
     files: 25
 total:
-  code: 217172
-  comments: 25666
-  blanks: 23612
-  files: 1142
+  code: 219799
+  comments: 25965
+  blanks: 23837
+  files: 1151
 ---
 
 ---
-{"id":457823496,"author":{"login":"viper151","id":7479045,"node_id":"MDQ6VXNlcjc0NzkwNDU=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPBqO7c4bSdUI","tag_name":"v1.37.10","target_commitish":"main","name":"CloudCLI UI v1.37.10","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-25T08:20:44Z","updated_at":"2026-11-25T08:20:46Z","published_at":"2026-11-25T08:20:46Z","assets":[],"body":"## [1.37.10](https://github.com/siteboon/claudecodeui/compare/v1.37.9...v1.37.10) (2026-11-25)\n\n### New Features\n\n* **chat:** scale transcript and composer width with the pane ([#1830](https://github.com/siteboon/claudecodeui/issues/1830)) ([b1d5fb2](https://github.com/siteboon/claudecodeui/commit/b1d5fb298dcc1426a048b7d0e7ab1593ae57fe0a))\n* **codex:** update the Codex CLI from Settings without rebuilding CloudCLI ([#1802](https://github.com/siteboon/claudecodeui/issues/1802)) ([4dcbb71](https://github.com/siteboon/claudecodeui/commit/4dcbb7145fc4afd5119ca7cfff9d9ff1ec59fba7))\n* **sidebar:** pin sessions while preserving fork trees ([#1812](https://github.com/siteboon/claudecodeui/issues/1812)) ([53dea39](https://github.com/siteboon/claudecodeui/commit/53dea39fab9e98d23252276c09b32e328f4f558d))\n\n### Bug Fixes\n\n* **assets:** report and correlate attachment upload failures ([#1814](https://github.com/siteboon/claudecodeui/issues/1814)) ([16defeb](https://github.com/siteboon/claudecodeui/commit/16defeb6d83841dbef5c4f19972eabafc8605a11))\n* **auth:** compare API_KEY and Browser MCP token in constant time ([#1804](https://github.com/siteboon/claudecodeui/issues/1804)) ([b695914](https://github.com/siteboon/claudecodeui/commit/b6959148ec006f258d737e72bb630ff2e5e84672))\n* **chat:** improve markdown table column sizing and line breaks ([#1825](https://github.com/siteboon/claudecodeui/issues/1825)) ([d0604e2](https://github.com/siteboon/claudecodeui/commit/d0604e2cc350cc345dd6a6b8d14223ff119b5555))\n* **chat:** name attachments refused for size or count instead of dropping them ([#1801](https://github.com/siteboon/claudecodeui/issues/1801)) ([d17b8a9](https://github.com/siteboon/claudecodeui/commit/d17b8a97d2ba66daa6a97e21b464f3cf5aab2506))\n* **editor:** stop the docked editor from snapping width when the resize handle is pressed ([#1799](https://github.com/siteboon/claudecodeui/issues/1799)) ([3aa4645](https://github.com/siteboon/claudecodeui/commit/3aa464521a3881d454dc2a34354d6904fcc51116))\n* keep optional web fonts from blocking startup ([#1815](https://github.com/siteboon/claudecodeui/issues/1815)) ([09ff15b](https://github.com/siteboon/claudecodeui/commit/09ff15bd6680edb6f230cee9d8e27041d5a577dd))\n* **models:** keep a provider-reported session model that equals the built-in default ([#1813](https://github.com/siteboon/claudecodeui/issues/1813)) ([43e57ec](https://github.com/siteboon/claudecodeui/commit/43e57ecf2f712ff533e5b3f51536fb675d8861f1))\n* **server:** parse request bodies only after authentication ([#1805](https://github.com/siteboon/claudecodeui/issues/1805)) ([d3d8741](https://github.com/siteboon/claudecodeui/commit/d3d87414d64c6367ed0c85f5a6015e9a12793475))"}
+{"id":460550389,"author":{"login":"viper151","id":7479045,"node_id":"MDQ6VXNlcjc0NzkwNDU=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPBqO7c4bc3D1","tag_name":"v1.37.11","target_commitish":"main","name":"CloudCLI UI v1.37.11","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-27T12:03:30Z","updated_at":"2026-11-27T12:03:32Z","published_at":"2026-11-27T12:03:32Z","assets":[],"body":"## [1.37.11](https://github.com/siteboon/claudecodeui/compare/v1.37.10...v1.37.11) (2026-11-27)\n\n### New Features\n\n* **agent-api:** permission mode per run, capabilities and session status ([#1863](https://github.com/siteboon/claudecodeui/issues/1863)) ([06eb312](https://github.com/siteboon/claudecodeui/commit/06eb312a371b7da839aa08b4182e87c4ba414ffe))\n* **chat:** remember the permission mode per session and start new chats from the project's last selection ([#1850](https://github.com/siteboon/claudecodeui/issues/1850)) ([1e9558d](https://github.com/siteboon/claudecodeui/commit/1e9558dc0dd29f1f9f4d10fc9fbf92a420507210)), closes [#1740](https://github.com/siteboon/claudecodeui/issues/1740)\n* **plugins:** let plugins render the chat rows of their tools ([#1862](https://github.com/siteboon/claudecodeui/issues/1862)) ([8026251](https://github.com/siteboon/claudecodeui/commit/802625193deb419055eba6a7bd54deb0cfd677c6))\n* **sidebar:** pin sessions from conversation search results ([#1865](https://github.com/siteboon/claudecodeui/issues/1865)) ([12af41e](https://github.com/siteboon/claudecodeui/commit/12af41eb90094346f20f0a21dc7f1dcd6cadecdd))\n\n### Bug Fixes\n\n* **chat:** restore full-width composer on narrow panes and align activity tabs ([#1876](https://github.com/siteboon/claudecodeui/issues/1876)) ([a2b8d44](https://github.com/siteboon/claudecodeui/commit/a2b8d4489cc2be4e27e3ceb176f9649a9db2c8b5)), closes [#1830](https://github.com/siteboon/claudecodeui/issues/1830) [pre-#1830](https://github.com/siteboon/pre-/issues/1830)"}
